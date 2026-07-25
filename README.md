@@ -1,47 +1,112 @@
-# PayShield
-AI-powered banking transaction simulation and fraud detection platform for testing payment systems, analyzing transaction behavior, and evaluating financial security at scale.
 # 🛡️ PayShield
 
-## AI-Powered Banking Transaction Simulation & Fraud Detection Platform
+> AI-Powered Banking Transaction Simulation & Fraud Detection Platform
 
-PayShield is a production-inspired FinTech platform designed to simulate real-world banking and payment transactions for testing fraud detection systems, payment workflows, and transaction analytics.
+PayShield is a production-inspired FinTech platform designed to simulate real-world banking transactions for testing payment systems, fraud detection engines, and transaction analytics.
 
-### 🚀 Features
+The project demonstrates modern software engineering practices including scalable backend architecture, AI-powered fraud detection, real-time transaction monitoring, cloud deployment, and DevOps workflows.
 
-- Secure User Authentication
-- Banking Transaction Simulator
+---
+
+## 🚀 Vision
+
+Build a production-inspired banking platform capable of generating realistic financial transactions, identifying fraudulent behavior, and providing real-time analytics through an interactive dashboard.
+
+---
+
+## ✨ Features (Planned)
+
+- User Authentication
+- Transaction Simulation
+- Banking APIs
+- Rule-Based Fraud Detection
 - AI-Based Fraud Detection
-- Rule-Based Risk Analysis
-- Real-Time Dashboard
-- Transaction Analytics
-- REST APIs
-- Docker Support
+- Real-Time Monitoring
+- Risk Scoring
+- Analytics Dashboard
+- Reporting
+- Docker Deployment
+- CI/CD Pipeline
 - Cloud Deployment
-- Scalable Architecture
 
-### 🛠️ Tech Stack
+---
 
-#### Backend
-- Python
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
+## 🛠 Tech Stack
 
-#### Frontend
+### Frontend
+
 - React
 - TypeScript
 - Tailwind CSS
 
-#### AI & Data
+### Backend
+
+- FastAPI
+- SQLAlchemy
+- Alembic
+
+### Database
+
+- PostgreSQL
+- Redis
+
+### AI
+
 - Scikit-learn
 - Pandas
 - NumPy
 
-#### DevOps
+### DevOps
+
 - Docker
 - GitHub Actions
+
+### Cloud
+
 - Oracle Cloud
 
-## 📌 Project Status
+---
+
+## 📁 Project Structure
+
+```
+PayShield/
+│
+├── backend/
+├── frontend/
+├── database/
+├── docker/
+├── docs/
+├── scripts/
+├── tests/
+└── README.md
+```
+
+
+
+## 📌 Development Status
 
 🚧 Currently under active development.
+
+Milestone 1:
+Environment Setup & Project Foundation
+
+
+
+## 📚 Learning Goals
+
+- Software Engineering
+- Backend Development
+- Frontend Development
+- Database Design
+- AI Integration
+- Cloud Deployment
+- DevOps
+- System Design
+- Cyber Security
+- FinTech
+
+
+## 📜 License
+
+MIT License
